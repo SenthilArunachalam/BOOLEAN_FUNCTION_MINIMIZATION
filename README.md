@@ -44,7 +44,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![RTL  REALIZATION OUTPUT](https://github.com/user-attachments/assets/a6e97e6b-a964-4d99-b8e7-919582e93e5e)
 
 
-### Truth table
+### Truth table:
 
 ![TRUTH TABLE 1](https://github.com/user-attachments/assets/f90a00a3-ba5f-4a3a-8941-d895da44287e)
 
