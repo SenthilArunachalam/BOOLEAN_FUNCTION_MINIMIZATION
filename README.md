@@ -1,6 +1,6 @@
 ### NAME:SENTHIL ARUNACHALAM P
 ### REG NO :24900904
-### EX 2: IMPLEMENTATION BOOLEAN FUNCTION
+### EX 2: IMPLEMENTATION OF BOOLEAN FUNCTION
 ### AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
